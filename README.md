@@ -1,6 +1,5 @@
 # Data Driven Design 2025
-## Group 4 
-*Julie, Jenni, Annie*
+*Group 4: Julie, Jenni, Annie*
 ## Title
 ### Where did you get your data from?
 * Where did you get your data from? [source/s link]
