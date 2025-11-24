@@ -5,6 +5,9 @@ Jenni, Julie and Annie
 ## Abstract
 This project reframes UFO sighting records as a speculative tourism guide for alien “species.” By analysing where each craft-shape appears most often and mapping contextual state indicators, we create radar charts that imagine how extraterrestrial travellers might choose their next destination.
 
+## Figma board
+https://www.figma.com/proto/9WntgLZ9GJIO5LcKjNJfF9/%F0%9F%91%BD--Making-Sense-of-Data---Mini-Project?page-id=280%3A1154&node-id=320-106&viewport=-1368%2C-1001%2C0.26&t=p2HHRIGLCGYBufyn-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=320%3A106
+
 ## Protocol Diagram
 
 
